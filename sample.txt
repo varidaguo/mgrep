@@ -1,0 +1,4 @@
+Rust is a systems programming language.
+It runs blazingly fast.
+Memory safety without garbage collection.
+Fearless concurrency in Rust.
